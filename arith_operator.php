@@ -21,14 +21,22 @@
     $a += $b;
     echo $a; */
 
-    // Comparison Operators
+    /* Comparison Operators
 
     $var = 100;
     $var1 = 10;
 
-    var_dump ()
+    var_dump ($var != $var1); */
 
-
+    // Logial Operator
+    $age = 30;
+    $age1 = 20;
+    if($age == 20 xor $age1 == 10){
+        echo "right";
+    }
+    else{
+        echo "wrong";
+    }
 
     ?>
 </body>
