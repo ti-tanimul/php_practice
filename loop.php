@@ -29,7 +29,6 @@
 
     // Foreach Loop
 
-
     $colors = array('Red','Blue','Green','Yellow','Black');
 
     foreach ($colors as $color){
