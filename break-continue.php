@@ -1,7 +1,7 @@
 <?php
-for($a=0; $a<10; $a++){
-    if($a == 5){
+for($a=0; $a<=100; $a+=5){
+    if($a == 4){
         break;
-    }echo "number is: $a <br>";
+    }echo $a . "<br>";
 }
 ?>

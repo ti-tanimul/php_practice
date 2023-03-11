@@ -15,25 +15,25 @@
 
    }while($a <=10);  */
 
-   //For Loop
-//    for($a=2; $a < 15; $a++){
-//     echo "hello $a<br>";
-//    }
+//    For Loop
+   for($a=1; $a <= 15; $a++){
+    echo "$a<br>";
+   }
 
-    /* for($a=0; $a<10; $a++){
-        for($b=0; $b<$a; $b++){
-            echo "*";
-        }
-        echo "<br>";
-    } */
+    //  for($a=0; $a<10; $a++){
+    //     for($b=0; $b<$a; $b++){
+    //         echo "*";
+    //     }
+    //     echo "<br>";
+    // } 
 
     // Foreach Loop
 
-    $colors = array('Red','Blue','Green','Yellow','Black');
+    // $colors = array('Red','Blue','Green','Yellow','Black');
 
-    foreach ($colors as $color){
-        echo "$color<br>";
-    }
+    // foreach ($colors as $color){
+    //     echo "$color<br>";
+    // }
     
     
 

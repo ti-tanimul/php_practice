@@ -11,7 +11,7 @@ echo "</pre>"; */
 // AssociativeArray
 
 $cars =array('Toyota', 'ferari', 'BMW', 'Pajero', 'Mitshusihi');
-$total =count($cars);
+$total  =count($cars);
 for($x=0; $x <$total; $x++){
     echo $cars[$x];
     echo "<br>";

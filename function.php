@@ -36,7 +36,9 @@ function sum($x, $y) {
   
   echo sum (5, 10). "<br>";
   echo sum (14, 18). "<br>";
-  echo sum (23, 12); */
+  echo sum (23, 12); 
+  
+  */
 
 //   function name(&$age){
 //     $age .= "24";
